@@ -1,7 +1,7 @@
 # Machine_learning_agriculture
 
-Este código utiliza um conjunto de dados do kaggle de agricultura.
+Este código emprega um conjunto de dados provenientes do Kaggle, especializado em agricultura, como fonte de informação. 
 
-Este dados são analisados e usado para recomendar a cultura para o solo adequado. 
+Estes dados são minuciosamente analisados e aplicados para orientar a escolha das culturas ideais para diferentes tipos de solo. 
 
-Isto será muito útil na produção agrícola (Agricultura) sem perdas baseadas em ph do solo, chuva, umidade e outros componentes químicos presentes no solo.
+Tal abordagem promete revolucionar a produção agrícola, reduzindo perdas através da consideração de variáveis como o pH do solo, níveis de chuva, umidade e outros componentes químicos presentes no substrato.
